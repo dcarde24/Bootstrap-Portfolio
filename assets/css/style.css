@@ -1,3 +1,12 @@
+.container {
+    background: green;
+}
+
 .card-img {
-    color: yellow;
+    width: 200px;
+    height: 400px;
+}
+
+.footer {
+    width: auto;
 }
