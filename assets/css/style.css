@@ -1,6 +1,7 @@
 .container {
-    background: green;
+    background: #4aaaa5;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .card-img {
@@ -20,4 +21,8 @@
 .navbar-brand {
     background: #4aaaa5;
     
+}
+
+.nav-item {
+    float: right;
 }
