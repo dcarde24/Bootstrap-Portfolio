@@ -1,24 +1,33 @@
-.container {
+.container-fluid {
     background: #4aaaa5;
-    margin-top: 10px;
-    margin-bottom: 20px;
 }
 
 .card-img {
     float: left;
-    width: 200px;
-    margin: 0 20px 10px 0;
+}
+.card-title {
+    margin-left: 15px;
+    margin-top: 20px;
 }
 
 .footer {
+    height: 50px;
     width: auto;
+    text-align: center;
 }
 
 .navbar {
     height: 100px;
+    margin-bottom: 20px;
 }
 
 .navbar-brand {
     background: #4aaaa5;
+    text-decoration-color: white;
     
 }
+
+.lineBreak {
+    border: 1px solid grey;
+}
+
